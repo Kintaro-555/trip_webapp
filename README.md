@@ -1,3 +1,4 @@
 # 観光地検索webアプリケーション
 XAMPPで動作するPHPプログラム
-![スクリーンショット 2021-10-06 17 37 43](https://user-images.githubusercontent.com/86187215/136412577-d065c1a1-261b-4e65-9d40-1099bd06c3ce.png)
+
+<img width="1440" alt="スクリーンショット 2020-02-12 16 06 59" src="https://user-images.githubusercontent.com/86187215/136412731-5c604566-8751-4cfb-80b5-5dc06339f1f1.png">
