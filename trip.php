@@ -294,7 +294,6 @@
                 scrollTop: 0},500);
                 return false;
                 });
-
             });  
 
         },false);
@@ -304,10 +303,10 @@
 <?php
 require 'TwistOAuth.phar';
 
-$consumer_key = '8vRlXNwdw9AFH437WkrLcGKkb';
-$consumer_secret = 'jdsHWgdpkGIja7BWDeSACFAHB3v2VxOgaQcabccWKljqKBsGwN';
-$access_token = '2959664821-QgOfQhRY0UQ3m4M6ySnW8dfwB2ZFJfexWS2boyJ';
-$access_token_secret = 'nhEav7INd1ZvVfFh6LPSIdlZ7h0dHYCVNak8Q5tCZHpEf';
+$consumer_key = '';
+$consumer_secret = '';
+$access_token = '';
+$access_token_secret = '';
 
 $connection = new TwistOAuth($consumer_key, $consumer_secret, $access_token, $access_token_secret);
 
